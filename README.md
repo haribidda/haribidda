@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying bachelor's in Computer Science
 
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
+- 🌱 I’m currently learning **MERN STACK & BLOCKCHAIN**
 
 - 👨‍💻 My Portfolio is available here  [https://biddaportfolio.herokuapp.com](https://biddaportfolio.herokuapp.com)
 
